@@ -1,0 +1,8 @@
+<svg id="sign_up" data-name="sign up" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="spacer" width="24" height="24" fill="none"/>
+  <g id="newsletter_icon" data-name="newsletter icon" transform="translate(1 5)">
+    <path id="mail" d="M-2279.4,168.006h-18.645l2.421-12h13.114a4.506,4.506,0,0,0-.09.9,4.494,4.494,0,0,0,.134,1.093h-11.575l-1.617,8.015h14.676l1.02-5.053a4.156,4.156,0,0,0,1.647.338c.09,0,.181,0,.271-.009l-1.355,6.716Z" transform="translate(2298.041 -155.006)" fill="#333"/>
+    <circle id="notification_badge" data-name="notification badge" cx="2.5" cy="2.5" r="2.5" transform="translate(16.999)" fill="#333"/>
+    <path id="smile_graphic" data-name="smile graphic" d="M10.764,0h0a7.7,7.7,0,0,1-2.4,1.563,7.563,7.563,0,0,1-2.869.56,7.558,7.558,0,0,1-2.864-.564A7.667,7.667,0,0,1,.242,0L0,.532A6.334,6.334,0,0,0,2.2,2.258,7.6,7.6,0,0,0,5.5,3a7.592,7.592,0,0,0,3.3-.746A6.321,6.321,0,0,0,11,.518Z" transform="translate(5 5)" fill="#333"/>
+  </g>
+</svg>
